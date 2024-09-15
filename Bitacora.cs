@@ -3,6 +3,8 @@ using System.Configuration;
 /*
 
 Bitacora.cs
+
+Descripción:
 Este script se utiliza para registrar eventos y errores en una bitácora mientras se ejecuta una interfaz. 
 La bitácora ayuda a llevar un control de las operaciones realizadas y a visualizar cualquier error que ocurra durante la ejecución de la interfaz.
 
