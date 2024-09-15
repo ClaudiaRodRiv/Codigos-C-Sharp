@@ -1,4 +1,4 @@
-# Codigos - C - Sharp
+# Códigos - C - Sharp
 
 Hola, soy Claudia Rodríguez, estudiante de Ingeniería en Sistemas Computacionales en la Escuela Superior de Cómputo del Instituto Politécnico Nacional. Cuento con un diploma como Técnica en Computación, otorgado por el Centro de Estudios Científicos y Tecnológicos No. 8 del mismo instituto.
 
